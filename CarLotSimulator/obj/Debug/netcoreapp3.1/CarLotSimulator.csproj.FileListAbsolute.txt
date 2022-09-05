@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\CarLotSimulator\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.genruntimeconfig.cache
